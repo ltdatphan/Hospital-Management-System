@@ -1,4 +1,6 @@
 # Medsuite
+Deployed version: [https://medsuite.netlify.app/](https://medsuite.netlify.app/)
+
 The purpose of this project is to develop a functioning hospital management system, complete with a database of patients. This management system will simplify the process for  doctors, nurses and medical staff to be able to access patient records, and provide them with the specific care they require as soon as possible. The system will also allow for patients to set up appointments with their preferred practitioner. Hosptial administration is also able to manage all staff and patients through the system, and manage inventory, logistics and financial information as well.
 
 # Usage Guidelines
